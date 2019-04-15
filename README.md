@@ -1,2 +1,0 @@
-# SharaoReactCounter
-Created with CodeSandbox
